@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="title">Nouveau contact</string>
+    <string name="contact_text">Nom du contact</string>
+</resources>
+
